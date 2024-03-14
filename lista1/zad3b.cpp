@@ -2,9 +2,9 @@
 
 using namespace std;
 
-double downN1()
+float downN1()
 {
-    double a = 0;
+    float a = 0;
     for (int i = 1; i <= 100; i++)
     {
         a += 1.0 / i;
@@ -14,9 +14,9 @@ double downN1()
     return a;
 }
 
-double downN2()
+float downN2()
 {
-    double b = 0;
+    float b = 0;
     for (int i = 1; i <= 100000; i++)
     {
         b += 1.0 / i;
@@ -26,9 +26,9 @@ double downN2()
     return b;
 }
 
-double downN3()
+float downN3()
 {
-    double c = 0;
+    float c = 0;
     for (int i = 1; i <= 100000000; i++)
     {
         c += 1.0 / i;
@@ -38,9 +38,9 @@ double downN3()
     return c;
 }
 
-double upN1()
+float upN1()
 {
-    double d = 0;
+    float d = 0;
     for (int i = 100; i > 0; i--)
     {
         d += 1.0 / i;
@@ -49,9 +49,9 @@ double upN1()
     return d;
 }
 
-double upN2()
+float upN2()
 {
-    double f = 0;
+    float f = 0;
     for (int i = 100000; i > 0; i--)
     {
         f += 1.0 / i;
@@ -60,9 +60,9 @@ double upN2()
     return f;
 }
 
-double upN3()
+float upN3()
 {
-    double g = 0;
+    float g = 0;
     for (int i = 100000000; i > 0; i--)
     {
         g += 1.0 / i;

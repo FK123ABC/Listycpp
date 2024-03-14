@@ -1,0 +1,7 @@
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/zad1.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/zad2.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/zad2b.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/zad3.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/zad3b.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/s346382/Pulpit/Listycpp/build-lista1-Desktop-Debug/CMakeFiles/rebuild_cache.dir

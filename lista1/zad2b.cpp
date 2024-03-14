@@ -3,7 +3,7 @@
 
 using namespace std;
 
-long double a()
+long double b()
 {
     long double t = 1 / sqrt(3.0);
     long double pi;
@@ -16,7 +16,7 @@ long double a()
         }
         else
         {
-            t = (sqrt(t * t + 1.0) - 1.0) / t;
+            t =  t/ (sqrt(t * t + 1.0) + 1.0) ;
             pi = 6 * pow(2.0, i) * t;
             cout << "Dla i rownego: " << i << " pi wynosi: " << pi << endl;
         }
@@ -25,11 +25,8 @@ long double a()
     return 0;
 }
 
-
-
-
 int main()
 {
-    a();
+    b();
     return 0;
 }
